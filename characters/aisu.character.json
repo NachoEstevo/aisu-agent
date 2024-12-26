@@ -2,7 +2,7 @@
   "name": "Aisu",
   "plugins": [],
   "clients": [],
-  "modelProvider": "openrouter",
+  "modelProvider": "gtp-4o-mini",
   "settings": {
     "secrets": {},
     "voice": {
